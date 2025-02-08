@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178699183568",
+    "project_id": "chat-hub-27f47",
+    "storage_bucket": "chat-hub-27f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178699183568:android:008e2abe3a4b50283105d5",
+        "android_client_info": {
+          "package_name": "com.example.chat_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_fiQYdwW_X0dDOBgtaf6yDM3ccvIltNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
