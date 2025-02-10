@@ -15,7 +15,7 @@
 ---
 
 ## 📸 Screenshots  
-(Insert your app screenshots here)
+
 
 ---
 
